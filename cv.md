@@ -12,7 +12,7 @@ Java, Javascript, Intellj IDEA.
 
 Education
 
-Arkhangelsk Northern Federal University Informational technologies long times ago.
+Arkhangelsk Northern Federal University Informational technologies.
 
 English level
 
