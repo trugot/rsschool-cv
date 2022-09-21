@@ -4,7 +4,7 @@ Contact info:
 
   E-mail: psyghogift@gmail.com telegram: https://t.me/pysgh0
 
-  I’m trying to understand kotlin and android. At this time I want to throw all my efforts on Kotlin and Android.
+  I’m trying to understand web development and functional programming right now.
 
 Skills:
 
